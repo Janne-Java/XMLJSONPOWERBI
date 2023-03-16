@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<kirjasto>
+	<taulukko1>
+		<Työntekijänumero>1</Työntekijänumero>
+		<Sukunimi>Mattila</Sukunimi>
+		<Etunimi>Virpi</Etunimi>
+	</taulukko1>
+	
+	<taulukko1>
+		<Työntekijänumero>2</Työntekijänumero>
+		<Sukunimi>Heikkinen</Sukunimi>
+		<Etunimi>Heikki</Etunimi>
+	</taulukko1>
+	
+	<taulukko1>
+		<Työntekijänumero>3</Työntekijänumero>
+		<Sukunimi>Rajala</Sukunimi>
+		<Etunimi>Martta</Etunimi>
+	</taulukko1>
+	
+	<taulukko1>
+		<Työntekijänumero>4</Työntekijänumero>
+		<Sukunimi>Heiskanen</Sukunimi>
+		<Etunimi>Maija</Etunimi>
+	</taulukko1>
+	
+	<taulukko1>
+		<Työntekijänumero>5</Työntekijänumero>
+		<Sukunimi>Lahti</Sukunimi>
+		<Etunimi>Reijo</Etunimi>
+	</taulukko1>
+	
+	
+</kirjasto>
